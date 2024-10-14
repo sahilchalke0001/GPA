@@ -1,5 +1,56 @@
 
-# GPA Prediction using Linear Regression
+# GPA Prediction Using Linear Regression
+
+## Table of Contents
+- [1. Understanding Linear Regression](#1-understanding-linear-regression)
+- [2. Data Collection](#2-data-collection)
+- [3. Data Preparation](#3-data-preparation)
+
+## 1. Understanding Linear Regression
+
+Linear regression is a supervised machine learning algorithm that finds the best-fit line (linear relationship) between independent variables (features) and a dependent variable (target). The formula for a simple linear regression model is:
+
+\[
+y = mx + b
+\]
+
+Where:
+- \(y\) is the dependent variable (GPA).
+- \(x\) is the independent variable (e.g., study hours).
+- \(m\) is the slope of the line (the coefficient).
+- \(b\) is the y-intercept.
+
+For multiple linear regression, the equation expands to include multiple independent variables:
+
+\[
+y = b_0 + b_1x_1 + b_2x_2 + ... + b_nx_n
+\]
+
+Where:
+- \(b_0\) is the intercept.
+- \(b_1, b_2, ..., b_n\) are the coefficients for each independent variable \(x_1, x_2, ..., x_n\).
+
+## 2. Data Collection
+
+To predict GPA, you'll first need to gather a dataset that includes:
+
+- **Dependent Variable:** The GPA scores of students (usually on a scale from 0.0 to 4.0).
+- **Independent Variables:** These could include:
+  - Study hours per week
+  - Attendance percentage
+  - Extracurricular activities
+  - Class participation
+  - Parent Support
+  - Any other relevant factors
+
+## 3. Data Preparation
+
+1. **Cleaning the Data:** Handle missing values, outliers, and erroneous entries.
+2. **Feature Selection:** Identify which independent variables are relevant to predicting GPA.
+
+3. **Splitting the Data:** Divide your dataset into training and testing sets (typically 70-80% for training and 20-30% for testing).
+
+
 
 
 ## Acknowledgements
