@@ -19,8 +19,7 @@ The project has been successfully deployed on Render, a popular cloud hosting pl
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gpa-ltaw.onrender.com/)
-
+[![GPA Predictor](https://img.shields.io/badge/GPA_Predictor-000?style=for-the-badge&logo=github&logoColor=white)](https://gpa-ltaw.onrender.com/)
 
 
 ## Screenshots
