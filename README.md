@@ -2,7 +2,7 @@
 # GPA Prediction using Linear Regression
 
 
-<h2 style="color: red;">Acknowledgements</h2>
+## Acknowledgements
 
 I would like to extend our sincere thanks to Ruturaj Sanap for his invaluable contribution to building the multiple linear regression model for this project. His efforts in analyzing the data, selecting the appropriate features, and applying statistical methods to create a robust model were instrumental in the success of this project.
 
