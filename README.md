@@ -55,7 +55,7 @@ To predict GPA, you'll first need to gather a dataset that includes:
 
 ## Acknowledgements
 
-I would like to extend our sincere thanks to Ruturaj Sanap for his invaluable contribution to building the multiple linear regression model for this project. His efforts in analyzing the data, selecting the appropriate features, and applying statistical methods to create a robust model were instrumental in the success of this project.
+We would like to extend our sincere thanks to [Ruturaj Sanap](https://github.com/Ruturaj1007) for his invaluable contribution to building the multiple linear regression model for this project. His efforts in analyzing the data, selecting the appropriate features, and applying statistical methods to create a robust model were instrumental in the success of this project.
 
 Through his work, we were able to develop a predictive model that accurately captures the relationships between multiple independent variables and the target variable, significantly improving our ability to make reliable predictions. His deep understanding of regression analysis and data preprocessing helped in delivering a model that is both efficient and effective.
 
