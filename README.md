@@ -42,6 +42,12 @@ To predict GPA, you'll first need to gather a dataset that includes:
   - Class participation
   - Parent Support
   - Any other relevant factors
+  - Marks in a particular subject
+  --Marks >= 90: Grade 4.0 (A)
+  --Marks >= 80: Grade 3.0 (B)
+  --Marks >= 70: Grade 2.0 (C)
+  --Marks >= 60: Grade 1.0 (D)
+  --Marks < 60: Grade 0.0 (F) 
 
 ## 3. Data Preparation
 
@@ -69,7 +75,7 @@ The project has been successfully deployed on Render, a popular cloud hosting pl
 
 
 ## 🔗 Links
-[![GPA Predictor](https://img.shields.io/badge/GPA_Predictor-000?style=for-the-badge&logo=github&logoColor=white)](https://gpa-ltaw.onrender.com/)
+[![GPA Predictor](https://i.postimg.cc/BnBTxmPg/Screenshot-170.png)](https://gpa-ltaw.onrender.com/)
 
 
 ## Screenshots

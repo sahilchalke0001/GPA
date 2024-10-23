@@ -1,11 +1,15 @@
 #import the libraries
 from pickle import load
+import os
 
-f = open("gpa.pkl","rb")
-model = load(f)
-f.close()
+# Load the updated model
+model_path = os.path.join(os.getcwd(), "gpa_updated.pkl")
+with open(model_path, "rb") as f:
+    model = load(f)
 
-#prediction
-d = [[18,8.191218545250186,0,0,1,1,0,0,0,1.0]]
-ans = model.predict(d)
-print("GPA : ",ans[0])
+# Example input data for prediction
+input_data = [[18, 8.19, 0, 0, 1, 1, 0, 0, 0, 3.0, 88, 91, 50, 67]]  
+
+# Prediction
+prediction = model.predict(input_data)
+print(f"Predicted Overall GPA: {prediction[0]}")
