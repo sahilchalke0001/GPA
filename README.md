@@ -75,10 +75,10 @@ The project has been successfully deployed on Render, a popular cloud hosting pl
 
 
 ## 🔗 Links
-[![GPA Predictor](https://i.postimg.cc/BnBTxmPg/Screenshot-170.png)](https://gpa-ltaw.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://gpa-ltaw.onrender.com) 
 
 
 ## Screenshots
 
-[![Screenshot-2024-10-14-235849.png](https://i.postimg.cc/QCN5LJP9/Screenshot-2024-10-14-235849.png)](https://postimg.cc/gX5r88Gm)
+[![Screenshot-2024-10-14-235849.png](https://i.postimg.cc/BnBTxmPg/Screenshot-170.png)](https://postimg.cc/gX5r88Gm)
 
