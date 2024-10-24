@@ -91,7 +91,7 @@ def main():
             StudyTimeWeekly = st.number_input("Enter the student's study hours (min value=0hrs, max value=21hrs):", min_value=0, max_value=21, step=1)
             Absences = st.number_input("Enter the student's absence (min value=0 days, max value=30 days):", min_value=0, max_value=30, step=1)
             ParentalSupport = st.number_input("Enter the student's parental support (min value=0, max value=4):", min_value=0, max_value=4, step=1)
-            GradeClass = st.number_input("Enter the student's Grade class (min value=0, max value=4):", min_value=0, max_value=4, step=1)
+            GradeClass = st.number_input("Enter the student's participation in class (min value=0, max value=4):", min_value=0, max_value=4, step=1)
 
             # Additional inputs for marks and GPAs
             OSmarks = st.number_input("Enter Operating system marks:", min_value=0, max_value=100, step=1)
@@ -139,7 +139,7 @@ def main():
                     Study Time Weekly: {StudyTimeWeekly} hours
                     Absence: {Absences} days
                     Parental Support: {ParentalSupport}
-                    Grade Class: {GradeClass}
+                    Participation in class: {GradeClass}
                     Extracurricular: {Extracurricular}
                     Sports: {Sports}
                     Music: {Music}
